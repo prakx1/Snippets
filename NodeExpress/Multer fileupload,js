@@ -1,5 +1,5 @@
 //WHEN GIVIING STORAGE DIRECTORY IN FUNCTION YOU HAVE TO CREATE DIRECTORY 
-///**READ HERE: https://www.npmjs.com/package/multer**
+**********************************************************************///**READ HERE: https://www.npmjs.com/package/multer******************************************************
 var blog=require('../models/blog');
 var multer=require('multer');
 
