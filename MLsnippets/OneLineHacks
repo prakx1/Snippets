@@ -1,0 +1,6 @@
+#printing a dictionary count of the target  values
+In[6]:
+        print("Sample counts per class:\n{}".format({n: v for n, v in zip(cancer.target_names, np.bincount(cancer.target))}))
+Out[6]:
+         Sample counts per class:
+        {'benign': 357, 'malignant': 212}
