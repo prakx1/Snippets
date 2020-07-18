@@ -1,1 +1,1 @@
-# Snippets that u can use and learn from.
+# Snippets that you can use and learn from.
